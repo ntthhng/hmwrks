@@ -3,8 +3,8 @@
 
 Размер массива, указывается его длина.\
 printf("Enter length of array: ");\
-scanf("%d", &length);
-\
+scanf("%d", &length);\
+
 Выделение памяти для массива.\
 Функция malloc возвращает NULL в случае, если не удалось выделить память для массива.\
 if ((array = (int * ) malloc(length * sizeof(int))) != NULL)\
