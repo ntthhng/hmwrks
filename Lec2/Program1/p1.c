@@ -6,10 +6,8 @@ void main()
 {
 	int *array = NULL;
 	unsigned length, i;
-
 	printf("Enter length of array: ");
 	scanf("%d", &length);
-
 	if (length > 0)
        	{
 		//При выделении памяти возвращается указатель.
