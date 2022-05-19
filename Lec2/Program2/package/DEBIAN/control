@@ -6,5 +6,5 @@ Depends: libc6
 Architecture: amd64
 Essential: no
 Installed-Size: 16
-Maintainer: ntthhng, lin.nelis@mail.ru
+Maintainer: ntthhng <lin.nelis@mail.ru>
 Description: Program2, Lec2
